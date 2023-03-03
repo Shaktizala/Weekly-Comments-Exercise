@@ -6,7 +6,7 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 
 ```bash
 # clone repo
-git clone git@github.com:Payal17122000/nuxt3-boilerplate.git
+git clone git@github.com:Improwised/nuxt3-boilerplate.git
 ```
 
 Make sure to install the dependencies:
