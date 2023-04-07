@@ -1,5 +1,5 @@
 <template>
-  <div class="text-center homepage">Welcome to Nuxt3</div>
+  <div class="text-center homepage"></div>
 </template>
 
 <style scoped>
