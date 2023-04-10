@@ -59,7 +59,7 @@ npm run dev
 
 
 
-## Store
+## Store - State Management
 
 This directory contains your Pinia Store files.
 
@@ -75,7 +75,7 @@ More information about the usage of this directory in [documentation]( https://p
 
 
 
-## Pinia Testcases
+## Testcases
 This directory includes the test cases. *
 More information to write test cases you can visit this [documentation](https://vitest.dev/guide/)
 ### for testcase run
